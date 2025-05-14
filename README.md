@@ -1,4 +1,4 @@
-# 🧳 Yol Arkadaşı - Tatil Planlama Uygulaması (Console)
+# 🧳 Yol Arkadaşı - Tatil Planlama Uygulaması 
 
 Bu uygulama, kullanıcıların 3 günlük bir tatil için yaklaşık maliyet hesaplamasını sağlayan, C# diliyle geliştirilmiş basit bir console uygulamasıdır.
 
