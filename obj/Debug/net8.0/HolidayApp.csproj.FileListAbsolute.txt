@@ -1,0 +1,14 @@
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/HolidayApp/bin/Debug/net8.0/HolidayApp
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/HolidayApp/bin/Debug/net8.0/HolidayApp.deps.json
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/HolidayApp/bin/Debug/net8.0/HolidayApp.runtimeconfig.json
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/HolidayApp/bin/Debug/net8.0/HolidayApp.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/HolidayApp/bin/Debug/net8.0/HolidayApp.pdb
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/HolidayApp/obj/Debug/net8.0/HolidayApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/HolidayApp/obj/Debug/net8.0/HolidayApp.AssemblyInfoInputs.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/HolidayApp/obj/Debug/net8.0/HolidayApp.AssemblyInfo.cs
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/HolidayApp/obj/Debug/net8.0/HolidayApp.csproj.CoreCompileInputs.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/HolidayApp/obj/Debug/net8.0/HolidayApp.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/HolidayApp/obj/Debug/net8.0/refint/HolidayApp.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/HolidayApp/obj/Debug/net8.0/HolidayApp.pdb
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/HolidayApp/obj/Debug/net8.0/HolidayApp.genruntimeconfig.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/HolidayApp/obj/Debug/net8.0/ref/HolidayApp.dll
